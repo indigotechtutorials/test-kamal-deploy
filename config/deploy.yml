@@ -9,7 +9,7 @@ image: yunggindigo/testdeploy1
 servers:
   web:
     hosts:
-      - 165.22.4.58
+      - 137.184.110.77
 
 
 # Credentials for your image host.
