@@ -7,10 +7,7 @@ image: yunggindigo/testdeploy1
 # Deploy to these servers.
 
 servers:
-  web:
-    hosts:
-      - 137.184.110.77
-
+  - 137.184.110.77
 
 # Credentials for your image host.
 registry:
